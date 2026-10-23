@@ -1,0 +1,2 @@
+Huffman coding compresses data by assigning short codes to frequent symbols.
+Huffman coding is a greedy algorithm.
