@@ -1,0 +1,3 @@
+DAA 2026: test 12345!
+Symbols: @ # $ % ^ & * ( ) _ + = - [ ] { } ; : ' " , . ? /
+Mixed text: IT_student-01, score=95%; result=PASS.

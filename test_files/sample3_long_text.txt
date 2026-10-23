@@ -1,0 +1,4 @@
+Design and Analysis of Algorithms helps us understand how to solve computational problems efficiently.
+This sample file contains several sentences for testing text compression and decompression.
+The compression system should preserve every character, including spaces, punctuation, and line breaks.
+After decompression, the restored file should be identical to the original file.

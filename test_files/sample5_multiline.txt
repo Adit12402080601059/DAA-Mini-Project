@@ -1,0 +1,7 @@
+First line: Huffman coding.
+Second line: greedy choice combines the two lowest frequencies.
+Third line: the tree gives each symbol a binary code.
+
+Blank lines should also be preserved.
+
+End of test file.
